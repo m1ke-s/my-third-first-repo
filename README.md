@@ -1,6 +1,6 @@
 ciaooo
 
 
-This inizial file contains a typo.
+This INITIAL file contains a typo.
 
 
